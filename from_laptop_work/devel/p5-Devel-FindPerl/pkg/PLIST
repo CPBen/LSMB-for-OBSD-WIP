@@ -1,0 +1,4 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Devel/
+${P5SITE}/Devel/FindPerl.pm
+@man man/man3p/Devel::FindPerl.3p

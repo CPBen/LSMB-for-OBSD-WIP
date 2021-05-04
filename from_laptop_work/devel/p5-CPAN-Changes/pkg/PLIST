@@ -1,0 +1,17 @@
+@comment $OpenBSD: PLIST,v$
+bin/tidy_changelog
+${P5SITE}/CPAN/
+${P5SITE}/CPAN/Changes/
+${P5SITE}/CPAN/Changes.pm
+${P5SITE}/CPAN/Changes/Group.pm
+${P5SITE}/CPAN/Changes/Release.pm
+${P5SITE}/CPAN/Changes/Spec.pod
+${P5SITE}/Test/
+${P5SITE}/Test/CPAN/
+${P5SITE}/Test/CPAN/Changes.pm
+@man man/man1/tidy_changelog.1
+@man man/man3p/CPAN::Changes.3p
+@man man/man3p/CPAN::Changes::Group.3p
+@man man/man3p/CPAN::Changes::Release.3p
+@man man/man3p/CPAN::Changes::Spec.3p
+@man man/man3p/Test::CPAN::Changes.3p

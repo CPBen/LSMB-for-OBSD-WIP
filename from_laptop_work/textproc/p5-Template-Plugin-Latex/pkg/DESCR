@@ -1,0 +1,5 @@
+Template::Plugin::Latex - The Template Toolkit is a collection of
+modules which implement a fast, flexible, powerful and extensible
+template processing system.  The LaTeX plugin provides the facility to
+filter content through LaTeX, provided of course that the content is
+valid LaTeX source.  

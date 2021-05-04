@@ -1,0 +1,6 @@
+@comment $OpenBSD: PLIST,v$
+bin/cpan-upload
+${P5SITE}/CPAN/
+${P5SITE}/CPAN/Uploader.pm
+@man man/man1/cpan-upload.1
+@man man/man3p/CPAN::Uploader.3p

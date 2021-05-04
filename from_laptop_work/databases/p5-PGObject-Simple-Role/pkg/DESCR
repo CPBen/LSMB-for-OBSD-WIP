@@ -1,0 +1,13 @@
+PGObject::Simple::Role is a Moo/Moose mapper for minimalist PGObject framework 
+(embodied in PGObject::Simple).  Basically it provides a way to easily map 
+stored procedures using the conventions of PGObject::Simple for Moo/Moose 
+environments.
+
+PGObject::Simple::Role is a Moo role which allows you to use this functionality
+in Moo and Moose environments.  The role itself makes no assumptions about 
+database state, but provides hooks for classes to use to retrieve or create
+database handles for their use.
+
+This module is suited to quick and easy integration of PostgreSQL stored
+procedures with Moo and Moose object models.  It is quite powerful and it makes
+developing in such environments relatively easy.

@@ -1,0 +1,604 @@
+cdrdao-1.2.1p5-audio write audio/data CD-Rs in disk-at-once mode
+p5-Algorithm-C3-0.10 module for merging hierarchies using the C3 algorithm
+p5-Algorithm-Diff-1.1903p0 interface to compute differences between two objects
+p5-Algorithm-Munkres-0.08 implementation of Munkres' solution to Assignment problem
+p5-Any-Moose-0.18   use Moose or Mouse modules
+p5-AnyEvent-7.15v0  provide framework for multiple event loops
+p5-Apache-DBI-1.12  DBI persistent connection, authentication and authorization
+p5-Apache-LogFormat-Compiler-0.35 compile a log format string to perl-code
+p5-App-Info-0.57p0  interface for providing metadata about installed packages
+p5-AppConfig-1.71   bundle for reading and parsing config files
+p5-Archive-Zip-1.64 perl interface to ZIP files
+p5-Array-Compare-2.12 Perl module for comparing arrays
+p5-Authen-NTLM-1.09 perl interface to the NTLM authentication mechanism
+p5-Authen-SASL-2.16 perl interface to the SASL auth framework
+p5-AutoXS-Header-1.02p1 simple container for the AutoXS header file
+p5-B-Hooks-EndOfScope-0.24 execute code after a scope finished compilation
+p5-B-Keywords-1.19  lists of Perl keywords for use in backend modules
+p5-BSD-Resource-1.2911 BSD process resource limit and priority functions
+p5-BSD-Socket-Splice-0.06 perl interface to OpenBSD socket splicing
+p5-BSD-arc4random-1.50p5 perl interface to the arc4 random number generator
+p5-BerkeleyDB-0.55p0 Berkeley DB module
+p5-Business-PayPal-0.04p0 extension for automating PayPal transactions
+p5-Business-PayPal-API-0.70 PayPal API
+p5-CGI-4.43         handle Common Gateway Interface requests and responses
+p5-CGI-Ajax-0.707   AJAX framework for perl
+p5-CGI-Compile-0.22 compile .cgi scripts to a code reference
+p5-CGI-Emulate-PSGI-0.22 PSGI adapter for CGI
+p5-CGI-PSGI-0.15p0  CGI.pm adaption to the PSGI protocol
+p5-CGI-SSI-0.92p1   use SSI from CGI scripts
+p5-CGI-Simple-1.115 drop-in object-oriented CGI.pm replacement
+p5-CGI-Untaint-1.26p2 taint checking and input validation from web forms
+p5-CPAN-Changes-0.400002 read and write CPAN Changes files
+p5-CPAN-Meta-Check-0.014 verify requirements in a CPAN::Meta object
+p5-CPAN-Uploader-0.103013 upload things to the CPAN
+p5-CSS-DOM-0.17     check the validity of links in an HTML or XHTML document
+p5-CSS-Minifier-0.01p1 minifies CSS files
+p5-CSS-Minifier-XS-0.09p0 XS based CSS minifier
+p5-CSS-Squish-0.10  compress CSS info for transmission
+p5-CSS-Tiny-1.20    handle CSS with little overhead
+p5-Cache-Cache-1.08 perl cache interface
+p5-Cairo-1.106p0    perl interface to the cairo library
+p5-Canary-Stability-2012 canary to check perl compatibility for schmorp's modules
+p5-Capture-Tiny-0.48 capture STDOUT and STDERR
+p5-Carp-Always-0.13p0 turn every die/warn into carp verbose messages
+p5-Class-Accessor-0.51 automated accessor generation
+p5-Class-Accessor-Lite-0.08 minimalistic variant of Class::Accessor
+p5-Class-AutoClass-1.56 get and set methods and simplify object initialization
+p5-Class-C3-0.34    pragma to use the C3 method resolution order algorithm
+p5-Class-Data-Inheritable-0.08p1 inheritable, overridable class data
+p5-Class-ErrorHandler-0.04 base class for error handling
+p5-Class-Factory-Util-1.7 simple framework for Factories
+p5-Class-Inspector-1.34 get information about a class and its structure
+p5-Class-Load-0.24  working 'require Class::Name' and more
+p5-Class-Load-XS-0.10p0 XS implementation of parts of Class::Load
+p5-Class-Loader-2.03p1 load modules and create objects on demand
+p5-Class-Method-Modifiers-2.12p0 provides Moose-like method modifiers
+p5-Class-Singleton-1.5 perl singleton pattern
+p5-Class-Std-0.013  inside-out object scaffolding
+p5-Class-Tiny-1.006 minimalist class construction
+p5-Class-XSAccessor-1.19 generate fast XS accessors without runtime compilation
+p5-Clone-0.41       recursively copy Perl datatypes
+p5-Clone-Choose-0.010 choose appropriate clone utility
+p5-Config-General-2.63 generic configuration parser, inspired by apache
+p5-Config-Grammar-1.12 grammar-based, user-friendly config parser
+p5-Config-INI-0.025 simple .ini-file format
+p5-Config-IniFiles-3.000002p0 module for reading .ini-style configuration files
+p5-Config-MVP-2.200011 multivalue-property package-oriented configuration
+p5-Config-MVP-Reader-INI-2.101463 MVP config reader for .ini files
+p5-Config-Std-0.903 use standard configuration files
+p5-Config-Tiny-2.14 simple methods to Read/Write .ini style files
+p5-Convert-BinHex-1.125 module to extract data from Macintosh BinHex files
+p5-Convert-Binary-C-0.78 binary data conversion using C types
+p5-Cookie-Baker-0.10 cookie string generator / parser
+p5-Cpanel-JSON-XS-4.12 cPanel fork of JSON::XS, fast and correct serializing
+p5-Crypt-OpenSSL-Bignum-0.08 OpenSSL's multiprecision integer arithmetic
+p5-Crypt-OpenSSL-RSA-0.28p1 RSA encoding and decoding using OpenSSL
+p5-Crypt-OpenSSL-Random-0.11 routines for accessing the OpenSSL prng
+p5-Crypt-RC4-2.02p2 implementation of the RC4 encryption algorithm
+p5-Crypt-SSLeay-0.72p2 library to provide LWP https support via OpenSSL
+p5-Curses-1.32p0    terminal screen handling and optimisation
+p5-Curses-UI-0.9609p0 curses based user interface framework for Perl
+p5-DBD-Mock-1.45    mock database driver for testing
+p5-DBD-Pg-3.7.4     access to PostgreSQL databases through the DBI
+p5-DBD-SQLite-1.50p1v0 SQLite drivers for the Perl DBI
+p5-DBD-mysql-4.050  MySQL drivers for the Perl DBI
+p5-DBI-1.641        unified perl interface for database access
+p5-DBIx-Simple-1.37 very complete easy-to-use OO interface to DBI
+p5-Data-Dump-1.23   pretty printing of data structures
+p5-Data-Dumper-Simple-0.11p0 easily dump variables with names
+p5-Data-HexDump-0.02p1 hexadecimal dumper
+p5-Data-OptList-0.110 parse and validate simple name/value option pairs
+p5-Data-Perl-0.002009 collection of classes wrapping fundamental Perl data types
+p5-Data-Stag-0.14   structured tags datastructures
+p5-Data-UUID-1.221  extension for generating GUIDs/UUIDs
+p5-DateTime-1.07p2v0 perl objected oriented Date Time
+p5-DateTime-Format-Builder-0.81p0v0 create DateTime parser classes and objects
+p5-DateTime-Format-Mail-0.403v0 convert between DateTime and email (RFC2822/822) formats
+p5-DateTime-Format-Pg-0.16013 parse and create PostGresql date objects
+p5-DateTime-Format-Strptime-1.54p0v0 parse and format strp and strf time patterns
+p5-DateTime-Format-W3CDTF-0.07 parse and format W3CDTF datetime strings
+p5-DateTime-Locale-0.46 localization data for perl DateTime.pm
+p5-DateTime-TimeZone-1.64p1 DateTime submodule for TZ
+p5-Devel-Cover-1.25 code coverage metrics for Perl
+p5-Devel-FastProf-0.08p4 per-line quick profiler for perl
+p5-Devel-GlobalDestruction-0.14 expose the flag which marks global destruction
+p5-Devel-NYTProf-6.06 powerful feature-rich perl source code profiler
+p5-Devel-SmallProf-2.02p1 per-line Perl profiler
+p5-Devel-StackTrace-2.03 an object representing a stack trace
+p5-Devel-StackTrace-AsHTML-0.15 displays stack trace in HTML
+p5-Devel-Symdump-2.18v0 module for inspecting Perl's symbol table
+p5-Digest-HMAC-1.03p0 interface to HMAC Message-Digest Algorithms
+p5-Digest-Perl-MD5-1.9 perl implementation of Ron Rivests MD5 Algorithm
+p5-Digest-SHA1-2.13p4 module to calculate SHA1 digests
+p5-Dist-CheckConflicts-0.11 declare version conflicts for your dist
+p5-EV-4.27          perl interface to libev
+p5-Email-Abstract-3.008 unified interface to mail representations
+p5-Email-Address-1.912 RFC 2822 address parsing and creation
+p5-Email-Address-XS-1.04 parse and format RFC 5322 email addresses and groups
+p5-Email-Date-Format-1.005 produce RFC 2822 date strings
+p5-Email-MIME-1.946v0 easy MIME message handling
+p5-Email-MIME-ContentType-1.022p0 parse MIME Content-Type or Content-Disposition headers
+p5-Email-MIME-Encodings-1.315 unified interface to MIME encoding and decoding
+p5-Email-MessageID-1.406 generate world unique message-ids
+p5-Email-Received-1.00p0 parse an email Received: header
+p5-Email-Send-2.201p0 simply sending email
+p5-Email-Sender-1.300031 library for sending email
+p5-Email-Simple-2.216 simple parsing of RFC2822 message format and headers
+p5-Email-Valid-1.202 check validity of Internet email addresses
+p5-Encode-Detect-1.01p7 Encode::Encoding subclass that detects the encoding of data
+p5-Encode-Locale-1.05 determine the locale encoding
+p5-Error-0.17028    error/exception handling in an OO-ish way
+p5-Eval-Closure-0.14 safely and cleanly create closures via string eval 
+p5-Event-1.27p0     event loop processing
+p5-Event-ExecFlow-0.64 high level API for event-based execution flow control
+p5-Event-RPC-1.10   Event based transparent Client/Server RPC framework
+p5-Exception-Class-1.44 module to declare real exception classes in perl
+p5-Exporter-Lite-0.08 lightweight exporting of functions and variables
+p5-Exporter-Tidy-0.06p1 alternative to the standard perl exporter
+p5-Exporter-Tiny-1.002001 exporter with the features of Sub::Exporter
+p5-ExtUtils-Config-0.008p0 wrapper for perl's configuration
+p5-ExtUtils-Helpers-0.026p0 various portability utilities for module builders
+p5-ExtUtils-InstallPaths-0.011p0 Build.PL install path logic made easy
+p5-ExtUtils-XSBuilder-0.28p2 automatic Perl XS glue code generation
+p5-ExtUtils-XSpp-0.18 XS for C++
+p5-FCGI-0.78        module for enabling FastCGI support in CGI scripts
+p5-FCGI-ProcManager-0.19p0 functions for managing FastCGI applications
+p5-Feed-Find-0.07   autodiscover syndication feeds
+p5-File-BaseDir-0.08 use the freedesktop Base Directory Specification
+p5-File-Copy-Recursive-0.44 recursive copy of files and directories
+p5-File-DesktopEntry-0.22p0 handle .desktop files
+p5-File-Find-Object-0.3.4 object oriented File::Find replacement
+p5-File-Find-Object-Rule-0.0310 alternative interface to File::Find::Object
+p5-File-Find-Rule-0.34 alternative interface to File::Find
+p5-File-Find-Rule-Perl-1.15 common rules for searching for Perl things
+p5-File-HomeDir-1.004 retrieve home directory location
+p5-File-Listing-6.04 parse directory listing
+p5-File-MimeInfo-0.29 determine file types
+p5-File-Next-1.16   File-finding iterator
+p5-File-PathList-1.04 Find a file within a set of paths (like @INC or Java
+p5-File-ReadBackwards-1.05p0 module to read a file starting at the end
+p5-File-Remove-1.58 remove files and directories with perl
+p5-File-ShareDir-1.116 locate install data per-module
+p5-File-ShareDir-Install-0.13 install shared files, to use with File::ShareDir
+p5-File-Slurp-9999.27 efficient reading/writing of complete files
+p5-File-Slurper-0.012 simple, sane and efficient module to slurp a file
+p5-File-Tail-1.3    library for reading from continuously updated files
+p5-File-Tempdir-0.02p0 object oriented interface to File::Temp::tempdir()
+p5-File-Touch-0.11  update access and modification timestamps of files
+p5-File-Which-1.23  portable implementation of 'which' in Perl
+p5-File-chdir-0.1010 more sensible way to change directories
+p5-File-chmod-0.42  implements symbolic and ls chmod modes
+p5-File-pushd-1.016 change directory temporarily for a limited scope
+p5-FileHandle-Unget-0.1634 filehandle which supports ungetting of multiple bytes
+p5-Filesys-Notify-Simple-0.12 simple and dumb file system watcher
+p5-Font-AFM-1.20p0  perl interface to Adobe Font Metrics files
+p5-FreezeThaw-0.5001 module for converting structures to strings and back
+p5-GD-2.56p0        module to interface with the GD graphics library
+p5-GD-SVG-0.33      allow GD perl scripts to output SVG
+p5-GD-SecurityImage-1.75 security image (captcha) generator
+p5-Getargs-Long-1.1012 parses long function arguments
+p5-Getopt-ArgvFile-1.11 program arguments processing module
+p5-Getopt-Long-Descriptive-0.103 Getopt::Long, but simpler and more powerful
+p5-Getopt-Simple-1.52 simple wrapper around Getopt::Long
+p5-Git-Repository-1.317 Perl interface to Git repositories
+p5-Glib2-1.326      perl interface to the Glib libraries
+p5-GnuPG-Interface-0.44 perl5 interface to GnuPG
+p5-Graph-0.9704     graph data structures in perl
+p5-GraphViz-2.02p2  perl interface to the graphviz graphing tool
+p5-Gravatar-URL-1.07 make URLs for Gravatars from an email address
+p5-Gtk2-1.24992     set of modules to use Gtk+2 libraries from Perl
+p5-Gtk2-Ex-FormFactory-0.67 framework which makes building complex GUIs easy
+p5-HTML-FillInForm-2.21 inserts data into HTML input and select tags
+p5-HTML-Form-6.03   Class that represents an HTML form element
+p5-HTML-Format-2.11 HTML text formating class
+p5-HTML-Parser-3.72 modules to parse and extract information from HTML
+p5-HTML-Selector-XPath-0.25 CSS Selector to XPath compiler
+p5-HTML-SimpleParse-0.12p1 bare-bones HTML parser
+p5-HTML-Tagset-3.20p1 data tables useful for parsing HTML
+p5-HTML-Template-2.97 use HTML Templates from CGI scripts
+p5-HTML-Tidy-1.60p1 (X)HTML validation in a Perl object
+p5-HTML-Tiny-1.05p0 lightweight, dependency free HTML/XML generation
+p5-HTML-Tree-5.07   perl parser that builds an HTML tree
+p5-HTML-TreeBuilder-XPath-0.14 add XPath support to HTML::TreeBuilder
+p5-HTTP-Body-1.22   HTTP Body Parser
+p5-HTTP-Cookies-6.04 HTTP Cookie jars
+p5-HTTP-Daemon-6.01 a simple http server class
+p5-HTTP-Date-6.02   date conversion routines
+p5-HTTP-Entity-Parser-0.21 PSGI compliant HTTP Entity Parser
+p5-HTTP-Headers-Fast-0.22 faster implementation of HTTP::Headers
+p5-HTTP-Message-6.13 HTTP Style Messages
+p5-HTTP-MultiPartParser-0.02 HTTP MultiPart Parser
+p5-HTTP-Negotiate-6.01 choose a variant to serve
+p5-HTTP-Parser-XS-0.17 fast, primitive HTTP request parser
+p5-HTTP-Server-Simple-0.52 simple standalone HTTP server
+p5-HTTP-Server-Simple-PSGI-0.16 PSGI handler for HTTP::Server::Simple
+p5-Hash-AutoHash-1.17 object-oriented access to real and tied hashes
+p5-Hash-AutoHash-Args-1.18 OO processing of keyword-based argument lists
+p5-Hash-Merge-0.300 merges arbitrarily deep hashes into a single hash
+p5-Hash-MultiValue-0.16 store multiples values per key
+p5-I18N-Charset-1.417 module to map charset names registered with IANA
+p5-IO-Capture-0.05p2 module for capturing output
+p5-IO-CaptureOutput-1.1104p0 capture STDOUT and STDERR from Perl code, subprocesses or XS
+p5-IO-HTML-1.001    open an HTML file with automatic charset detection
+p5-IO-Interface-1.09p1 module for access to network card configuration information
+p5-IO-Multiplex-1.16 handle multiple file handles
+p5-IO-SessionData-1.03 supporting module for SOAP::Lite
+p5-IO-Socket-INET6-2.72 object interface for AF_INET and AF_INET6 domain sockets
+p5-IO-Socket-Multicast-1.12p5 module for sending and receiving multicast messages
+p5-IO-Socket-SSL-2.066 Perl SSL sockets with IO::Socket interface
+p5-IO-Socket-Socks-0.74 create SOCKS v4/v5 client or server
+p5-IO-Socket-Timeout-0.32 IO::Socket with read/write timeout
+p5-IO-String-1.08p2 emulate IO::File interface for in-core strings
+p5-IO-stringy-2.111p0 in-core objects like strings and arrays for I/O
+p5-IPC-Run-0.96     run a subprocess
+p5-IPC-Run3-0.048   run a subprocess in batch mode
+p5-IPC-ShareLite-0.17p4 simple interface to access shared memory
+p5-IPC-Signal-1.00p0 utility functions dealing with signals
+p5-IPC-System-Simple-1.25 run commands simply, with detailed diagnostics
+p5-Image-Info-1.41  perl module for getting image information
+p5-Image-Size-3.300 module to determine the size of images in several formats
+p5-Importer-0.025   alternative but compatible interface to modules that export
+p5-JSON-2.94p0      parse and convert to JSON (JavaScript Object Notation)
+p5-JSON-Any-1.39    wrapper class for the various JSON classes
+p5-JSON-DWIW-0.47   JSON converter that Does What I Want
+p5-JSON-MaybeXS-1.004000 use Cpanel::JSON::XS or JSON::XS or JSON::PP
+p5-JSON-XS-3.04v1   JSON serialising/deserialising, done correctly and fast
+p5-JSON-XS-VersionOneAndTwo-0.31p1 shim to support either v1 or v2 APIs of JSON::XS
+p5-JavaScript-Minifier-1.05p1 Perl extension for minifying JavaScript code
+p5-JavaScript-Minifier-XS-0.11p0 XS based JavaScript minifier
+p5-Jcode-2.07       handles various Japanese charsets
+p5-LWP-Authen-Wsse-0.05p1 library for enabling X-WSSE authentication in LWP
+p5-LWP-MediaTypes-6.02 Guess url media type
+p5-LWP-Protocol-https-6.07 adds support for https to p5-libwww
+p5-LWP-Protocol-socks-1.7 adds support for SOCKS to p5-libwww
+p5-LWP-UserAgent-Determined-1.03p1 virtual browser that retries on errors
+p5-LaTeX-Driver-0.300.2 driver to format LaTeX documents
+p5-LaTeX-Encode-0.092.0 encode characters for LaTeX formatting
+p5-LaTeX-Table-1.0.6 extension for LaTeX table generation
+p5-Libxml-0.08p2    perl module collection for working with XML
+p5-Lingua-EN-Inflect-1.899p0 convert singular to plural, select a or an
+p5-List-Cycle-1.02p0 objects for cycling through a list of values
+p5-List-MoreUtils-0.428 provide the stuff missing in List::Util
+p5-List-MoreUtils-XS-0.428 provide compiled List::MoreUtils functions
+p5-Locale-Maketext-Fuzzy-0.11 Maketext from already interpolated strings
+p5-Locale-Maketext-Gettext-1.28 joins the gettext and maketext frameworks
+p5-Locale-Maketext-Lexicon-1.00 use other catalog formats in Locale::Maketext
+p5-Locale-PGetText-0.16p1 perl i18n routines
+p5-Locale-US-1.2p1  map two-letter codes to state names and vice versa (US)
+p5-Locale-gettext-1.07p2 interface to gettext() internationalization function
+p5-Log-Agent-1.001  abstraction layer for logging and tracing
+p5-Log-Dispatch-2.51 dispatches messages to one or more outputs
+p5-Log-Dispatch-Perl-0.04 use core Perl functions for logging
+p5-Log-Log4perl-1.40p0 Log4j implementation for Perl
+p5-Log-Message-0.08 Powerful and flexible message logging mechanism
+p5-Log-Message-Simple-0.10 simplified interface to Log::Message
+p5-MARC-Record-2.0.7 MARC (machine readable cataloging format)
+p5-MCE-1.843        engine for Perl providing parallel processing capabilities
+p5-MD5-1.7p6        interface to md5 message-digest algorithm
+p5-MIME-Charset-1.012.2 charset Informations for MIME
+p5-MIME-Lite-3.030  low-calorie MIME generator
+p5-MIME-Types-2.17  perl module to manage MIME types
+p5-MIME-tools-5.509 modules for parsing (and creating) MIME entities
+p5-MLDBM-2.05       store multi-level hash structure in single-level tied hash
+p5-MRO-Compat-0.13  mro::* interface compatibility for Perl < 5.9.5
+p5-Mail-AuthenticationResults-1.20180923 object oriented Authentication-Results headers
+p5-Mail-DKIM-0.56   DKIM and DomainKeys message-signing implementation
+p5-Mail-DMARC-1.20190831 Perl implementation of DMARC
+p5-Mail-GnuPG-0.23  handle GnuPG-encrypted/signed messages
+p5-Mail-IMAPClient-3.40 perl module for an IMAP Client API
+p5-Mail-IMAPTalk-4.04 IMAP client interface with lots of features
+p5-Mail-Mbox-MessageParser-1.5111p0 fast and simple mbox folder reader
+p5-Mail-Milter-Authentication-1.1.0p1 perl implementation of email authentication standards
+p5-Mail-POP3Client-2.19p0 perl module to talk to a POP3 (RFC1081) server
+p5-Mail-RFC822-Address-0.3p0 validate email addresses according to RFC822
+p5-Mail-SPF-2.9.0p0 perl oop implementation of Sender Policy Framework
+p5-Mail-SPF-Iterator-1.119 iterative SPF lookup
+p5-Mail-SPF-Test-1.001 perl SPF test-suite class
+p5-Mail-Sender-0.900003 send mail with attachments through SMTP
+p5-Mail-Tools-2.14  modules for handling mail with perl
+p5-Math-Base-Convert-0.11 very fast base to base conversion
+p5-Math-Bezier-0.01p1 perl module for solving bezier curves
+p5-Math-BigInt-GMP-1.6007 use the GMP library for Math::BigInt routines
+p5-Math-Derivative-1.01 numeric 1st and 2nd order differentiation
+p5-Math-Fibonacci-1.5p1 Fibonacci numbers
+p5-Math-Fibonacci-Phi-0.02p1 calculates Phi and phi for Fibonacci numbers
+p5-Math-Random-ISAAC-1.004p0 interface to the ISAAC PRNG algorithm
+p5-Math-Spline-0.02 cubic spline interpolation of data
+p5-Math-Utils-1.13  useful mathematical functions not in Perl
+p5-Mixin-Linewise-0.108 write your linewise code for handles; this does the rest
+p5-Modern-Perl-1.20181021p0 enable all of the features of Modern Perl with one import
+p5-Module-Build-0.4224 build and install Perl modules
+p5-Module-Build-Pluggable-0.10 Module::Build meets plugins
+p5-Module-Build-Pluggable-PPPort-0.04 Generate ppport.h
+p5-Module-Build-Tiny-0.039 tiny replacement for Module::Build
+p5-Module-Build-XSUtil-0.16 Module::Build class for building XS modules
+p5-Module-Find-0.13 find and use installed modules in a (sub)category
+p5-Module-Implementation-0.09 loads one of several alternate module implementations
+p5-Module-Install-1.18 standalone extensible Perl module installer
+p5-Module-Install-XSUtil-0.45p0 utility functions for XS modules
+p5-Module-Manifest-1.09 parse and examine a perl distribution MANIFEST file
+p5-Module-Pluggable-5.2 automatically give your module the ability to have plugins
+p5-Module-Runtime-0.016 runtime module handling
+p5-Module-ScanDeps-1.24p0 recursively scan Perl code for dependencies
+p5-Module-Util-1.09 module name tools and transformations
+p5-Moo-2.003004p0   Minimalist Object Orientation (with Moose compatibility)
+p5-MooX-StrictConstructor-0.010 blow up Moo-based object constructors on unknown attributes
+p5-MooX-Types-MooseLike-0.27p0 some Moosish types and a type builder
+p5-Moose-2.1204p1   complete modern object system for perl 5
+p5-MooseX-FollowPBP-0.05 name accessors get_foo(), set_foo()
+p5-MooseX-NonMoose-0.26 easy subclassing of non-Moose classes
+p5-MooseX-OneArgNew-0.005 teach ->new to accept single, non-hashref arguments
+p5-MooseX-Role-Parameterized-1.11 Moose roles with composition parameters
+p5-Mouse-2.5.6      Moose minus the antlers
+p5-MouseX-Types-0.06 organize your Mouse types in libraries
+p5-Mozilla-CA-Fake-20140330 access system SSL certificate bundle from Perl
+p5-Net-CIDR-Lite-0.21p0 Perl extension for merging IPv4 or IPv6 CIDR addresses
+p5-Net-DNS-1.20     perl interface to the domain name system
+p5-Net-DNS-Resolver-Programmable-0.009 programmable DNS resolver class for offline emulation of DNS
+p5-Net-Daemon-0.48p0 extension for portable daemons
+p5-Net-Domain-TLD-1.75 module to work with TLD names
+p5-Net-HTTP-6.17    Perl HTTP connection client
+p5-Net-IDN-Encode-2.500 Internationalizing Domain Names in Applications
+p5-Net-IDN-Nameprep-1.102 stringprep profile for Internationalized Domain Names
+p5-Net-IP-1.26p0    perl module for IPv4/IPv6 address parsing
+p5-Net-LibIDN-0.12p1 Perl bindings for GNU Libidn
+p5-Net-Patricia-1.22p0 Patricia Trie perl module for fast IP address lookups
+p5-Net-SMTPS-0.09   SSL/STARTTLS support for Net::SMTP
+p5-Net-SSLeay-1.88  perl module for using OpenSSL
+p5-Net-Server-2.009 extensible framework for Perl server engines
+p5-NetAddr-IP-4.079 manages IPv4 and IPv6 addresses and subnets
+p5-Number-Compare-0.03p0 compare numbers
+p5-Number-Format-1.75 Perl extension for formatting numbers
+p5-Number-Range-0.12 define range of numbers and test if number is in the range
+p5-OLE-Storage_Lite-0.19p0 simple class for OLE document interface
+p5-PAR-Dist-0.49    create and manipulate PAR distributions
+p5-PGObject-2.000002 toolkit integrating intelligent PostgreSQL dbs into Perl
+p5-PGObject-Simple-3.000002 minimalist stored procedure mapper based on LedgerSMB
+p5-PGObject-Simple-Role-2.000002 Moo/Moose mappers for minimalist PGObject framework
+p5-PGObject-Type-BigFloat-2.001 Math::BigFloat wrappers for PGObject classes
+p5-PGObject-Type-ByteString-1.2.3 wrapper for raw strings mapping to BYTEA columns
+p5-PGObject-Type-DateTime-2.000002 DateTime Wrappers for PGObject
+p5-PGObject-Util-DBAdmin-1.0.3 PostgreSQL Database Management Facilities for PGObject
+p5-PGObject-Util-DBMethod-1.00.003 declarative stored procedure <-> object mappings for the
+p5-POSIX-strftime-Compiler-0.41p0 gnu C library compatible strftime for loggers and servers
+p5-PPI-1.270        parse, analyze and manipulate Perl
+p5-PPI-HTML-1.08p1  parse, analyze and manipulate Perl
+p5-PPIx-Regexp-0.063 parse regular expressions
+p5-PPIx-Utilities-1.001000 extensions to PPI
+p5-PSGI-1.102       perl Web Server Gateway Interface Specification
+p5-Package-DeprecationManager-0.17 manage deprecation warnings for your distribution
+p5-Package-Stash-0.38 routines for manipulating stashes
+p5-Package-Stash-XS-0.29 faster and more correct implementation of Package::Stash
+p5-Pango-1.227p1    perl interface to the Pango libraries
+p5-Parallel-ForkManager-1.19 simple parallel processing fork manager
+p5-Parallel-Forker-1.234 parallel job forking and management
+p5-Parallel-Prefork-0.18 simple prefork server framework
+p5-Params-Util-1.07p1 utility to make parameter checking easier
+p5-Params-Validate-1.29 perl module to validate function/method parameters
+p5-Parse-RecDescent-1.967015 perl module to generate recursive descent parsers
+p5-Path-Class-0.37  cross-platform path manipulation
+p5-Path-Tiny-0.104  file path utility
+p5-Perl-Critic-1.126 critique Perl source code for best-practices
+p5-Perl-Critic-StricterSubs-0.05 Perl::Critic plugin for stricter subroutine checking
+p5-PerlIO-utf8_strict-0.007 Fast and correct UTF-8 IO
+p5-PerlIO-via-Timeout-0.32p0 PerlIO layer that adds read & write timeout to a handle
+p5-PlRPC-0.2020     module for writing rpc servers and clients
+p5-Plack-1.0047p0   interface between perl web frameworks and web servers
+p5-Plack-Middleware-FixMissingBodyInRedirect-0.12p0 sets body for redirect response, if it's not already set
+p5-Plack-Middleware-RemoveRedundantBody-0.05p0 removes body for HTTP response if it's not required
+p5-Plack-Middleware-ReverseProxy-0.15 supports app to run as a reverse proxy backend
+p5-Plack-Test-ExternalServer-0.02 run HTTP tests on external live servers
+p5-Pod-Constant-0.1 source constants from POD to avoid repetition
+p5-Pod-Coverage-0.23 check if the documentation of a module is comprehensive
+p5-Pod-Cpandoc-0.16 perldoc that works for modules you don't have installed
+p5-Pod-Eventual-0.094001 read a POD document as a series of trivial events
+p5-Pod-LaTeX-0.61   convert pod documentation to latex format
+p5-Pod-Spell-1.20p0 formatter for spellchecking pod
+p5-PodToHTML-0.08p1 generate HTML from files containing POD documentation
+p5-PostScript-MailLabels-2.32 create PostScript files of mailing address labels
+p5-Proc-Background-1.10p0 peek at lexical variables
+p5-Proc-Daemon-0.23 run perl program as a daemon process
+p5-Proc-Fork-0.806  simple, intuitive interface to the fork() system call
+p5-Proc-Guard-0.07  process runner with RAII pattern
+p5-Proc-PID-File-1.28 manage process id files
+p5-Proc-ProcessTable-0.53p2 interface to the system's process table
+p5-Proc-Queue-1.23p0 limits the number of forked concurrent processes
+p5-Proc-Simple-1.32 module to launch and control background processes
+p5-Proc-Wait3-0.04p1 perl extension for wait3 system call
+p5-Readonly-2.05    facility for creating read-only scalars, arrays, hashes
+p5-Readonly-XS-1.05p4 create readonly variables faster
+p5-Redis-1.991v0    perl binding for Redis database
+p5-Ref-Util-0.204   utility functions for checking references
+p5-Ref-Util-XS-0.117 utility functions for checking references (XS version)
+p5-Regexp-Common-2017060201 provide commonly requested regular expressions
+p5-Return-Value-1.666005 polymorphic return values
+p5-Role-HasMessage-0.006 thing with a message method
+p5-Role-Identifiable-0.007 thing with a list of tags
+p5-Role-Tiny-2.000006p0 minimalist role composition tool
+p5-SOAP-Lite-1.20   client and server-side SOAP implementation
+p5-SQL-Statement-1.412 SQL parsing and processing engine
+p5-SVG-2.84         Scalable Vector Graphics (SVG) in perl
+p5-SVG-Graph-0.02p1 visualize your data in SVG format
+p5-Safe-Isa-1.000010 call isa, can, does and DOES safely
+p5-Scope-Guard-0.21 lexically scoped resource management
+p5-Server-Starter-0.34 superdaemon for hot-deploying server programs
+p5-Set-Scalar-1.29  module for containing a set of scalars
+p5-Shell-0.73       run shell commands transparently
+p5-Shell-Command-0.06v0 simple Unix commands in perl
+p5-Signal-Mask-0.008p0 utility functions dealing with signals
+p5-Smart-Comments-1.06 debugging aid based on comments
+p5-Socket-GetAddrInfo-0.22p1 RFC 2553 getaddrinfo and getnameinfo functions
+p5-Socket6-0.29     Perl defines relating to AF_INET6 sockets
+p5-Sort-Key-1.33    sort perl arrays
+p5-Sourcecode-Spellchecker-0.03p0 perl module for spell-checking source code
+p5-Spiffy-0.46      Spiffy Perl Interface Framework For You
+p5-Spreadsheet-ParseExcel-0.65v0 get information from Excel spreadsheets
+p5-Spreadsheet-WriteExcel-2.40 write a cross-platform Excel binary file
+p5-Starlet-0.31     simple, high-performance PSGI/Plack HTTP server
+p5-Starman-0.4014   high-performance preforking PSGI/Plack web server
+p5-Statistics-Descriptive-3.0702 basic descriptive statistical functions
+p5-Stream-Buffered-0.03p0 temporary buffer to save bytes
+p5-String-Errf-0.008 simple sprintf-like dialect
+p5-String-Flogger-1.101245 string munging for loggers
+p5-String-Format-1.18 perl printf extensions
+p5-String-Formatter-0.102084 build sprintf-like functions of your own
+p5-String-RewritePrefix-0.007 rewrite strings based on a set of known prefixes
+p5-Sub-Exporter-0.987 exporter on steroids
+p5-Sub-Exporter-GlobExporter-0.005 export shared globs with Sub::Exporter collectors
+p5-Sub-Exporter-Progressive-0.001013 only use Sub::Exporter if you need it  
+p5-Sub-Identify-0.14 retrieve names of code references
+p5-Sub-Info-0.002   tool for inspecting subroutines
+p5-Sub-Install-0.928 helper for installing code into packages
+p5-Sub-Name-0.21    (re)name a sub
+p5-Sub-Quote-2.006006 efficient generation of subroutines via string eval
+p5-Sub-Uplevel-0.2800v0 Perl library for manipulating frame stack
+p5-Syntax-Highlight-HTML-0.04p0 syntax highlight for HTML
+p5-Syntax-Highlight-Perl-1.01p0 syntax highlight for perl
+p5-Sys-Hostname-Long-1.5 perl module to get FQDN
+p5-System-Command-1.119 object for running system commands
+p5-TAP-Formatter-JUnit-0.11 format TAP::Harness output as JUnit XML
+p5-TAP-Harness-Archive-0.18p0 create an archive of TAP results
+p5-TAP-Harness-JUnit-0.42 generate JUnit compatible output from TAP results
+p5-TAP-Harness-Multiple-0.07p0 report TAP output by test file description
+p5-Taint-Runtime-0.03p6 runtime enable taint checking
+p5-Task-Weaken-1.06 ensure that a platform has weaken support
+p5-Tcl-1.05         Tcl extension module for Perl
+p5-Template-2.27    template processing system
+p5-Term-Table-0.013 format a header and rows into a table
+p5-Test-Base-0.89   data driven test framework
+p5-Test-CPAN-Meta-0.25 validate your CPAN META.yml files
+p5-Test-CheckManifest-1.29 check Manifest matches your distro
+p5-Test-Deep-1.128  extremely flexible deep comparison
+p5-Test-Differences-0.64 test and show differences in strings and data structures
+p5-Test-EOL-2.00    check the correct line endings in your project
+p5-Test-Exception-0.43 test functions for exception based code
+p5-Test-FailWarnings-0.008 add test failures if warnings are caught
+p5-Test-Fatal-0.014 incredibly simple helpers for testing code with exceptions
+p5-Test-File-ShareDir-1.001002 create fake sharedir for testing
+p5-Test-JSON-0.11p0 test JSON data
+p5-Test-LWP-UserAgent-0.033 LWP::UserAgent suitable for simulating and testing network
+p5-Test-LongString-0.17 tests strings for equality
+p5-Test-Manifest-2.021p0 interact with a t/test_manifest file
+p5-Test-Needs-0.002006 skip tests when modules not available
+p5-Test-NoTabs-2.02 check the presence of tabs in your project
+p5-Test-NoWarnings-1.04p1 forbids warnings while testing
+p5-Test-Output-1.031p0 test output of other modules
+p5-Test-Perl-Critic-1.03p0 test framework to run Perl::Critic
+p5-Test-Pod-1.52    check for POD errors in files
+p5-Test-Pod-Content-0.0.6 test a Pod's content
+p5-Test-Pod-Coverage-1.10 check for pod coverage in your distribution
+p5-Test-Regexp-2017040101 test your regular expressions
+p5-Test-Reporter-1.62v0 sends test results to cpan-testers@perl.org
+p5-Test-Requires-0.10 checks to see if the module can be loaded
+p5-Test-RequiresInternet-0.05 easily test network connectivity
+p5-Test-SharedFork-0.34 fork test
+p5-Test-Spelling-0.25 check for spelling errors in POD files
+p5-Test-Strict-0.52 check syntax, presence of use strict; and test coverage
+p5-Test-TCP-2.19    testing TCP program
+p5-Test-Taint-1.08  tools to test taintedness
+p5-Test-Time-0.08p0 overrides time()/sleep() core functions for testing
+p5-Test-TrailingSpace-0.0301 test for trailing space in source files
+p5-Test-Trap-0.2.4p1 trap exit codes
+p5-Test-UseAllModules-0.17 do use_ok for all the MANIFESTed modules
+p5-Test-Version-2.09 check to see that version's in modules are sane
+p5-Test-Warn-0.36   Perl extension to test methods for warnings
+p5-Test-Warnings-0.026 test for warnings and the lack of them
+p5-Test-XML-0.08    compare XML in perl tests
+p5-Test-utf8-1.01   handy utf8 tests for Perl
+p5-Test2-Plugin-NoWarnings-0.07 fail if tests warn
+p5-Test2-Suite-0.000111 set of tools built upon the Test2 framework
+p5-Text-CSV-1.99    comma-separated values manipulation routines
+p5-Text-CSV_XS-1.36 comma-separated values manipulation routines
+p5-Text-Diff-1.45   perform diffs on files and record sets
+p5-Text-Glob-0.11   match globbing patterns against text
+p5-Text-Markdown-1.000031 convert Markdown syntax to (X)HTML
+p5-Text-Password-Pronounceable-0.30 generate pronounceable passwords
+p5-Text-Unidecode-1.30 US-ASCII transliterations of Unicode text
+p5-Throwable-0.200013 a role for classes that can be thrown
+p5-Tie-Hash-MultiValue-1.02p0 store multiple values per key
+p5-Tie-IxHash-1.23  ordered associative arrays for Perl
+p5-Tie-ToObject-0.03p3 tie to an existing object
+p5-Time-Duration-1.21v0 module for rounded or exact english expression of durations
+p5-Time-Out-0.11    easily timeout long running operations
+p5-Time-TimeDate-2.30 library for parsing and formatting dates and times
+p5-Tk-804.033p1     Tk 8.4 bindings for Perl
+p5-Tk-Stderr-1.2p0  capture standard error output, display in separate window
+p5-Tk-demo-804.033  demonstrate the features of ptk
+p5-Tree-DAG_Node-1.06 superclass for representing nodes in a tree
+p5-Try-Tiny-0.30    minimal try/catch with proper preservation of $@
+p5-Type-Tiny-1.002001 tiny, yet Moo(se)-compatible type constraint
+p5-Types-Serialiser-1.0 simple data types for common serialisation formats
+p5-URI-1.76         library to parse Uniform Resource Identifiers
+p5-URI-Fetch-0.13   smart URI fetching/caching
+p5-Unicode-LineBreak-2019.001 Unicode line breaking algorithm
+p5-Unicode-Map-0.112p5 conversions to and from arbitrary character sets
+p5-Unicode-Map8-0.13p0 module to implement efficient mapping tables
+p5-Unicode-MapUTF8-1.11p2 conversions to and from arbitrary character sets and UTF8
+p5-Unicode-String-2.10 modules to handle various Unicode issues
+p5-Unicode-Stringprep-1.105 preparation of internationalized strings
+p5-Universal-can-1.20140328 calling UNIVERSAL::can as a function
+p5-Universal-exports-0.05p2 lightweight, universal exporting/require of variables
+p5-Universal-isa-1.20171012 calling UNIVERSAL::isa as a function
+p5-Universal-moniker-0.08p1 Perl module for aliasing class names
+p5-Universal-require-0.18 extends require to work on variables
+p5-Unix-Mknod-0.04p3 Perl extension for mknod, major, minor and makedev
+p5-Unix-PID-0.23p0  interface for getting PID info
+p5-Unix-Syslog-1.1p5 interface to the UNIX system logger
+p5-Variable-Magic-0.62 associate user-defined magic to variables from Perl
+p5-Version-Compare-0.14 compare version strings
+p5-WWW-Form-UrlEncoded-0.26 parser and builder for application/x-www-form-urlencoded
+p5-WWW-Form-UrlEncoded-XS-0.26 parser and builder for x-www-form-urlencoded in XS
+p5-WWW-Mechanize-1.91 handy web browsing in a Perl object
+p5-WWW-Mechanize-GZip-0.14 tries to fetch webpages with gzip-compression
+p5-WWW-Robot-0.026  configurable web traversal engine
+p5-WWW-RobotRules-6.02 database of robots.txt-derived permissions
+p5-Want-0.29p1      generalisation of wantarray
+p5-WeakRef-0.01p5   API to the Perl weak references
+p5-Weasel-0.26      PHP Mink inspired multi-protocol web-testing library for
+p5-Weasel-Widgets-Dojo-0.05 Weasel extension set testing Dojo-based web apps (tag
+p5-X11-Protocol-0.56p1 provides an interface roughly equivalent to Xlib
+p5-X11-Protocol-Other-30p0 extras and helpers for X11::Protocol
+p5-X12-0.80         understanding configuration (cf) files for X12::Parser
+p5-XML-Atom-0.42    Atom RSS protocol for perl
+p5-XML-DOM-1.46p0   perl module to build DOM Level 1 structures
+p5-XML-DOM-XPath-0.14 extension to add XPath support to XML::DOM
+p5-XML-Feed-0.55    interface to RSS and Atom feeds
+p5-XML-Filter-BufferText-1.01p0 collate XML character events in one chunk
+p5-XML-Generator-1.04p0 extension for generating XML
+p5-XML-LibXML-2.0134v0 perl binding for libxml2
+p5-XML-LibXSLT-1.96 interface to the GNOME libxslt library
+p5-XML-NamespaceSupport-1.12p0 perl module to the SAX2 NamespaceSupport class
+p5-XML-Parser-2.44  perl module for parsing XML documents
+p5-XML-RSS-1.60     perl module to manage XML RSS files
+p5-XML-RegExp-0.04  Provide regular expressions for some XML tokens
+p5-XML-SAX-1.02     framework for the Perl SAX2 XML parsers, filters and drivers
+p5-XML-SAX-Base-1.09 base class for SAX drivers and filters
+p5-XML-SAX-Expat-0.51 SAX2 driver based on expat
+p5-XML-SAX-Writer-0.57 SAX2 writer
+p5-XML-SemanticDiff-1.0007 compare XML documents
+p5-XML-Simple-2.25  trivial perl API for reading/writing XML
+p5-XML-TreePP-0.43  pure Perl implementation for parsing/writing XML documents
+p5-XML-Twig-3.52p1  perl module for parsing huge XML documents
+p5-XML-Writer-0.625p0 perl extension for writing XML documents
+p5-XML-XPath-1.44   modules for parsing and evaluating XPath statements
+p5-XML-XPathEngine-0.14 re-usable XPath engine for DOM-like trees
+p5-YAML-1.26        YAML Ain't Markup Language
+p5-YAML-Syck-1.31   YAML and JSON for perl, optimized C
+p5-YAML-Tiny-1.73   read/write YAML files with as little code as possible
+p5-YAML-XS-0.74     YAML implementation using XS and libyaml
+p5-ZMQ-1.06         Perl-ish Interface to libzmq
+p5-ZMQ-Constants-1.04 constants for libzmq
+p5-ZMQ-LibZMQ3-1.19p1 libzmq 3.x wrapper for Perl
+p5-Zonemaster-LDNS-2.0.1p0 module to interface the DNS resolver using the ldns library
+p5-Zonemaster-engine-2.0.7 tool to check the quality of a DNS zone
+p5-ack-3.0.1        grep like tool, aimed at programmers
+p5-capitalization-0.03p1 use familiar style on method naming
+p5-common-sense-3.74 perl common defaults with lower memory usage
+p5-indirect-0.39    lexically warn about using the indirect method call syntax
+p5-libapreq2-2.08p7 apache HTTP server request library
+p5-libintl-1.29p0   internationalization library written in Perl
+p5-libwww-6.27      library for WWW access in Perl
+p5-namespace-autoclean-0.28p0 keep imports out of your namespace
+p5-namespace-clean-0.27 keep imports and functions out of your namespace
+p5-strictures-2.000005p0 turn on strict and make most warnings fatal
