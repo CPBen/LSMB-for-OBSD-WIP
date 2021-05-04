@@ -1,0 +1,29 @@
+@comment $OpenBSD: PLIST,v$
+${P5SITE}/Apache/
+${P5SITE}/Apache/AuthCookie/
+${P5SITE}/Apache/AuthCookie.pm
+${P5SITE}/Apache/AuthCookie/FAQ.pod
+${P5SITE}/Apache/AuthCookie/Params/
+${P5SITE}/Apache/AuthCookie/Params.pm
+${P5SITE}/Apache/AuthCookie/Params/Base.pm
+${P5SITE}/Apache/AuthCookie/Params/CGI.pm
+${P5SITE}/Apache/AuthCookie/Util.pm
+${P5SITE}/Apache/README.apache-2.4.pod
+${P5SITE}/Apache2/
+${P5SITE}/Apache2/AuthCookie/
+${P5SITE}/Apache2/AuthCookie.pm
+${P5SITE}/Apache2/AuthCookie/Base.pm
+${P5SITE}/Apache2/AuthCookie/Params.pm
+${P5SITE}/Apache2_4/
+${P5SITE}/Apache2_4/AuthCookie.pm
+@man man/man3p/Apache2::AuthCookie.3p
+@man man/man3p/Apache2::AuthCookie::Base.3p
+@man man/man3p/Apache2::AuthCookie::Params.3p
+@man man/man3p/Apache2_4::AuthCookie.3p
+@man man/man3p/Apache::AuthCookie.3p
+@man man/man3p/Apache::AuthCookie::FAQ.3p
+@man man/man3p/Apache::AuthCookie::Params.3p
+@man man/man3p/Apache::AuthCookie::Params::Base.3p
+@man man/man3p/Apache::AuthCookie::Params::CGI.3p
+@man man/man3p/Apache::AuthCookie::Util.3p
+@man man/man3p/Apache::README.apache-2.4.3p
