@@ -1,0 +1,18 @@
+This is a token file to point out that each cpanfile module produces a
+tree of dependencies that may be really long and complicated.
+
+To make this tree submitable, the lowest level dependencies need to be
+worked on first, otherwise work higher up can't get done.
+
+I have found this a bit complicated and I want to add some sort of easily
+understood pathway to make working on this simpler.
+
+I'm not sure of the best way to outline this. Suggestions welcome.
+Any help of any kind is welcome. No need to actually port in a module is
+necessary. For example, I don't have experience with some of the web server
+setups.
+
+Pointing out changes to the cpanfile itself is great help. So is pointing
+out any CPAN module that gets added to base OpenBSD helps too!
+
+Thanks.
